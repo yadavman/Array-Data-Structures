@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Array-Data-Strcutures/v16
+/.vs
+/ArrayRotations/ArrayRotationProgram/obj/Debug
+/ArrayRotations/Array_Rotations/.vs/Array_Rotations/v16
+/ArrayRotations/Array_Rotations/obj/Debug
+/ArrayRotations/ArrayRotationProgram/bin/Debug
+/ArrayRotations/ArrayRotation-ReversalAlgorithm/bin/Debug
+/ArrayRotations/ArrayRotation-ReversalAlgorithm/obj/Debug

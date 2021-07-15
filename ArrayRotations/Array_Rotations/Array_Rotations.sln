@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchElementInSortedRotate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedRotatedArray_FindGivenSumPair", "..\SortedRotatedArray_FindGivenSumPair\SortedRotatedArray_FindGivenSumPair.csproj", "{24829CCB-6AF5-4EB6-B51B-D7F68991D33F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSumOfArrayWithRotation", "..\MaxSumOfArrayWithRotation\MaxSumOfArrayWithRotation.csproj", "{9432E15F-CB43-462A-8ECE-9C27C1EDBCE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{24829CCB-6AF5-4EB6-B51B-D7F68991D33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24829CCB-6AF5-4EB6-B51B-D7F68991D33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24829CCB-6AF5-4EB6-B51B-D7F68991D33F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9432E15F-CB43-462A-8ECE-9C27C1EDBCE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9432E15F-CB43-462A-8ECE-9C27C1EDBCE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9432E15F-CB43-462A-8ECE-9C27C1EDBCE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9432E15F-CB43-462A-8ECE-9C27C1EDBCE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

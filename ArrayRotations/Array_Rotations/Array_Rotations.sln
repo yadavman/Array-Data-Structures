@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedRotatedArray_FindGive
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSumOfArrayWithRotation", "..\MaxSumOfArrayWithRotation\MaxSumOfArrayWithRotation.csproj", "{9432E15F-CB43-462A-8ECE-9C27C1EDBCE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotation_Maximum_Hamming_Distance", "..\Rotation_Maximum_Hamming_Distance\Rotation_Maximum_Hamming_Distance.csproj", "{FC24CA9F-2130-4FD8-9CD7-ACA6D85D67EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{9432E15F-CB43-462A-8ECE-9C27C1EDBCE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9432E15F-CB43-462A-8ECE-9C27C1EDBCE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9432E15F-CB43-462A-8ECE-9C27C1EDBCE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC24CA9F-2130-4FD8-9CD7-ACA6D85D67EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC24CA9F-2130-4FD8-9CD7-ACA6D85D67EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC24CA9F-2130-4FD8-9CD7-ACA6D85D67EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC24CA9F-2130-4FD8-9CD7-ACA6D85D67EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
